@@ -1,5 +1,5 @@
 ---
-title: An outlet of sorts.
+title: Kara Vole
 ---
 
-A descriptor of sorts.
+A multi-purpose outlet and/or collection of personal projects.
