@@ -1,4 +1,4 @@
 # Kara Vole
 *A multi-purpose outlet.*
 
-![dracoferret](dracoferret.jpeg)
+![dracoferret|200](dracoferret.jpeg)
