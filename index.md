@@ -2,4 +2,4 @@
 title: Kara Vole
 ---
 
-A multi-purpose outlet and/or collection of personal projects.
+> "We imagine that great people were always great, never questioning. I think they would hum to Ridicule at that idea." ~ Raboniel, *Rhythm of War*
